@@ -1,0 +1,18 @@
+mkdir socketsio
+cd socketsio
+npm init --y
+
+npm install express@4
+
+touch index.js
+touch index.html
+
+Suivre les instructions sur 'Get Started' de la documentation de Socket.io (https://socket.io/)
+npm install socket.io
+
+
+
+
+ollama (site pour installer des IA)
+
+ollama run deepseek-r1 Text
